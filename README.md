@@ -1,4 +1,4 @@
-<h1>DEVCLUB - CAFETERIA ☕ </h1>
+<h1> CAFETERIA ☕ </h1>
 <br>
 <h2>Esse Projeto de uma cafeteria onde eu pude aprimorar meus conhecimentos através do curso DevClub como desenvolvedor Front End, nesse Projeto ultilizei as seguintes tecnologias:<h2>
 <br>
